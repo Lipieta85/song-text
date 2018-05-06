@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+    font-family: 'Rubik', sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+}

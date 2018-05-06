@@ -1,0 +1,7 @@
+body { background-color: aqua; font-family: 'Rubik', sans-serif; }
+
+h1, h2 { text-align: center; }
+
+.container { padding: 20px; font-size: 25px; text-align: center; }
+
+.test { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
